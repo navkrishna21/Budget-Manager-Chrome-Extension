@@ -19,6 +19,6 @@ A chrome extension which let us add and keep track of our daily spending and not
 
 ![Image](./Screenshots/notification.png)  
   
-* It also consist of the feature of a context menu so that we can add the spendings directly from the webpage by highlighting the amount that we are going to spend.  
+* It also consists of the feature of a context menu so that we can add the spendings directly from the webpage by highlighting the amount that we are going to spend.  
 
 ![Image](./Screenshots/context-menu.png)
