@@ -3,7 +3,7 @@ A chrome extension which let us add and keep track of our daily spending and not
 
 # Screenshots
 
-We can enter our spendings and it will get added in the Total Spendings.
+* We can enter our spendings and it will get added in the Total Spendings.
 
 ![Image](./Screenshots/popup.png)
 
